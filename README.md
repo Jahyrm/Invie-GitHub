@@ -1,2 +1,4 @@
-# Invie-GitHub
-Aprendiendo a utilizar Git y GitHub. By: Jahyr M.
+# invie
+Las guitarras más locas
+
+http://invie-gj.tk
